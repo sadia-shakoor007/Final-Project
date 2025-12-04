@@ -1,0 +1,15 @@
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python
+opencv-python-headless
+numpy
+pandas
+gTTS
+python-dateutil
+pillow
+scipy
+matplotlib
+torch
+torchvision
+torchaudio
